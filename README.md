@@ -10,4 +10,4 @@ Some facts about me and why I program:
 
 ------
 
-[ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2) | [LinkedIn](https://www.linkedin.com/in/lino-mp/) | [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) | [CV](https://www.dropbox.com/s/0o7uqi8f49hshsg/Lino%20Mediavilla_CV.pdf?dl=0)
+[ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2) | [LinkedIn](https://www.linkedin.com/in/lino-mp/) | [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) | [My CV](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)
