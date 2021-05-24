@@ -2,7 +2,7 @@
 
 Some facts about me and why I program:
 
-- Currently I'm dedicated to master's studies in Embedded & Real-Time software. 
+- Currently I'm dedicated to master's studies in Software Engineering. 
 
 - I'm interested in Industry 4.0 and its enabling technologies.
 
