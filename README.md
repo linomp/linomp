@@ -2,9 +2,11 @@
 
 Some facts about me and why I program:
 
-- I started in Computational Mechanics, all Matlab. 
+- I started in Computational Mechanics, totally focused on Matlab.
 
 - Then I learned OOP making 2D games with Processing (subset of Java).
+
+- After this I started taking courses from my University's Computer Science department, while majoring in Mechanical Engineering. 
 
 - Over the summer of 2018 I took up Android and web applications (with JS technologies).
 
