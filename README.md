@@ -10,7 +10,7 @@ Some facts about me and why I program:
 
 - Over the summer of 2018 I took up Android and web applications (with JS technologies).
 
-- I went on to develop mobile app prototypes for class projects, but I invested more time in web, doing an internship abroad and then a full-time job during most of 2020.
+- I developed a few mobile apps for class projects, but I invested more time in web; doing an internship abroad and then a full-time job during most of 2020.
 
 - Currently I'm dedicated to master's studies in Software Engineering. 
 
