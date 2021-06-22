@@ -2,7 +2,7 @@
 
 Some facts about me and why I program:
 
-- I started in Computational Mechanics, totally focused on Matlab.
+- I started in Computational Mechanics, amazed by Matlab.
 
 - Then I learned OOP making 2D games with Processing (subset of Java).
 
