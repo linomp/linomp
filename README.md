@@ -16,6 +16,8 @@ Some facts about me and why I program:
 
 - I'm interested in Industry 4.0 and its enabling technologies.
 
+- I want to become an expert and lead projects within that vertical for a company, or for my own company.
+
 ###### :globe_with_meridians: [CV](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)  |  [LinkedIn](https://www.linkedin.com/in/lino-mp/) |  [ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)    |  [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) 
 
 <!-- 
