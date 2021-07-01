@@ -2,19 +2,21 @@
 
 Some facts about me and why I program:
 
-- I started in Computational Mechanics, amazed by Matlab.
+- I started in [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view), amazed by Matlab.
 
-- Then I learned OOP making 2D games with Processing (subset of Java).
+- Then I learned OOP making 2D games with [Processing](https://processing.org/) in prof. Mark Bueno's class (Interactive Media curriculum).
 
-- After that, I took courses from my University's Computer Science department, while majoring in Mechanical Engineering. 
+- I went on to take courses from my University's Computer Science department, while majoring in Mechanical Engineering. 
 
-- Over the summer of 2018 I took up Android and web applications (with JS technologies).
+- During the summer of 2018 I did my first internship for a [company in my city](https://www.tecopesca.com/), learned about their production challenges and heard the term "Industry 4.0" for the first time.
 
-- I developed a few mobile apps for class projects, but invested more time in web; doing an internship abroad and then a full-time job during most of 2020.
+- In that period I also took up Android and web applications (with JS technologies).
 
-- Currently I'm dedicated to master's studies in Software Engineering. 
+- I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested [more time in web](https://www.linkedin.com/in/lino-mp/#experience-section); doing an internship abroad and then a full-time job during most of 2020.
 
-- I'm interested in Industry 4.0 and its enabling technologies; I want to become an expert at architecting & developing solutions in that domain.
+- Currently I'm dedicated to master's studies in [Software Engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc). 
+
+- I'm interested in the enabling technologies for Industry 4.0, and I want to become an expert at architecting & developing solutions in that domain.
 
 ###### :globe_with_meridians: [CV](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)  |  [LinkedIn](https://www.linkedin.com/in/lino-mp/) |  [ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)    |  [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) 
 
