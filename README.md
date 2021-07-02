@@ -4,11 +4,11 @@ Some facts about me and why I program:
 
 - I started in [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view), amazed by Matlab.
 
-- Then I learned OOP making 2D games with [Processing](https://processing.org/) in prof. Mark Bueno's class (Interactive Media curriculum).
+- Then I learned OOP making 2D games with Processing in prof. Mark Bueno's class (Interactive Media curriculum).
 
 - I went on to take courses from my University's Computer Science department, while majoring in Mechanical Engineering. 
 
-- During the summer of 2018 I did my first internship for a [company in my city](https://www.tecopesca.com/), learned about their production challenges and heard the term "Industry 4.0" for the first time.
+- In 2018 I did an internship for a [company in my city](https://www.tecopesca.com/), learned about their production challenges and heard the term "Industry 4.0" for the first time.
 
 - In that period I also took up Android and web applications (with JS technologies).
 
