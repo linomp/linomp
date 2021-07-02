@@ -12,7 +12,7 @@ Some facts about me and why I program:
 
 - In that period I also took up Android and web applications (with JS technologies).
 
-- I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested [more time in web](https://www.linkedin.com/in/lino-mp/#experience-section); doing an internship abroad and then a full-time job during most of 2020.
+- I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested [more time in web](https://www.hackerrank.com/linomp); doing an internship abroad and then a full-time job during most of 2020.
 
 - Currently I'm dedicated to master's studies in [Software Engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc). 
 
