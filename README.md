@@ -4,7 +4,7 @@ Some facts about me and why I program:
 
 - I started in [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view), amazed by Matlab.
 
-- Then I learned OOP making 2D games with Processing in prof. Mark Bueno's class (Interactive Media curriculum).
+- Then I learned OOP making 2D games with Processing in prof. Mark Bueno's class.
 
 - I went on to take courses from my University's Computer Science department, while majoring in Mechanical Engineering. 
 
@@ -12,7 +12,7 @@ Some facts about me and why I program:
 
 - In that period I also took up Android and web applications (with JS technologies).
 
-- I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested [more time in web](https://www.hackerrank.com/linomp); doing an internship abroad and then a full-time job during most of 2020.
+- I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested [more time in web](https://www.hackerrank.com/linomp); going on an internship abroad and then a full-time job in 2020.
 
 - Currently I'm dedicated to master's studies in [Software Engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc). 
 
