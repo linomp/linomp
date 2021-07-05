@@ -2,7 +2,7 @@
 
 Some facts about me and why I program:
 
-- I started in [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view), amazed by Matlab, during my bachelor's studies in Quito, Ecuador.
+- I started in [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view), amazed by Matlab during my bachelor's studies in Quito, Ecuador.
 
 - Then I learned OOP making 2D games with Processing in prof. Mark Bueno's class.
 
