@@ -8,7 +8,7 @@ Some facts about me and why I program:
 
 - I went on to take courses from my University's Computer Science department, while majoring in Mechanical Engineering. 
 
-- In 2018 I did an internship for a [company in my city](https://www.tecopesca.com/), learned about their production challenges and heard the term "Industry 4.0" for the first time.
+- In 2018 I did an internship for a [company in Manta](https://www.tecopesca.com/) (my city), learned about their production challenges and heard the term "Industry 4.0" for the first time.
 
 - In that period I also took up Android and web applications (with JS technologies).
 
