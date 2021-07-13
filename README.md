@@ -10,7 +10,7 @@ Some facts about me and why I program:
 
 - In 2018 during an internship in Manta (my city), I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
 
-- In that period I also took up Android (native, Java) and web applications (MERN stack).
+- In that period I also took up Android (native, Java) and Web applications (MERN stack).
 
 - I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested more time in web; going on an [internship abroad](https://3fs.si/) and then a [full-time job](https://paqtana.com/) in 2020.
 
