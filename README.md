@@ -6,7 +6,7 @@ Some facts about me and why I program:
 
 - Then I learned OOP making 2D games with Processing in prof. Mark Bueno's class.
 
-- I went on to take Computer Science courses (declared a minor), while majoring in Mechanical Engineering. 
+- I went on to take Computer Science courses (declared it as my minor), while majoring in Mechanical Engineering. 
 
 - In 2018 during an internship in Manta (my city), I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
 
