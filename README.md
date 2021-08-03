@@ -2,11 +2,7 @@
 
 Some facts about me and why I program:
 
-- I started in [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) during my bachelor's studies at USFQ (Ecuador).
-
-- Then I learned OOP making 2D games with Processing in prof. Mark Bueno's class.
-
-- I went on to take Computer Science courses (declared it as my minor), while majoring in Mechanical Engineering. 
+- I learned doing [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) projects, making games with [Processing](https://processing.org/) and taking some Computer Science courses during my Mechanical Engineering bachelor's at USFQ (Ecuador).
 
 - In 2018 during an internship in Manta (my city), I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
 
