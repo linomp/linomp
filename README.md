@@ -2,7 +2,7 @@
 
 Some facts about me and why I program:
 
-- I learned doing [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) projects, making games with [Processing](https://processing.org/) and taking some Computer Science courses during my Mechanical Engineering bachelor's at USFQ (Ecuador).
+- I got into programming by doing [Computational Mechanics](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) projects, making games with [Processing](https://processing.org/) and taking Computer Science courses during my Mechanical Engineering bachelor's at USFQ (Ecuador).
 
 - In 2018 during an internship in Manta (my city), I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
 
