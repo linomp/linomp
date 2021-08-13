@@ -8,7 +8,7 @@ Some facts about me and why I program:
 
 - In that period I also took up Android (native, Java) and Web applications (MERN stack).
 
-- I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested more time in web; working on a [medical practice management system](https://www.iryo.io/) for [3FS d.o.o](https://3fs.si/) (Slovenia, 2019) and demand-driven requirements planning software with [Paqtana Ltd.](https://paqtana.com/) (remote, 2020).
+- I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested more time in web; working on a [medical practice management system](https://www.iryo.io/) for [3FS d.o.o](https://3fs.si/) (Slovenia, 2019) and demand-driven requirements planning software for [Paqtana Ltd.](https://paqtana.com/) (remote, 2020).
 
 - Currently I'm pursuing a master's degree in [Software Engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc) and working on urban traffic sensors in an internship at [Thinnect OÜ / Prolab](https://thinnect.com/).
 
