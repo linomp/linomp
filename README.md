@@ -10,7 +10,7 @@ Some facts about me and why I program:
 
 - I developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but invested more time in web; working on a [medical practice management system](https://www.iryo.io/) for [3FS d.o.o](https://3fs.si/) (Slovenia, 2019) and material requirements planning software for [Paqtana Ltd.](https://paqtana.com/) (remote, 2020).
 
-- Currently I'm pursuing a master's degree in [Software Engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc) in Estonia.
+- Currently I'm pursuing a master's degree in [Software Engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc) in Estonia, and working on the [Process Improvement Explorer](https://sep.cs.ut.ee/Main/PIX) project with the [Business Process Management Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at University of Tartu.
 
 - I'm interested in the enabling technologies for Industry 4.0, and I want to become an expert at architecting & developing solutions in that domain.
 
