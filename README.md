@@ -1,9 +1,14 @@
 
 ### Welcome
 
+
+###### :globe_with_meridians: [My CV](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)  |  [LinkedIn](https://www.linkedin.com/in/lino-mp/) |  [ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)    |  [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) 
+
 Some facts about me and why I program:
 
-- I got into programming during my Mechanical Engineering bachelor's at USFQ (Ecuador) by doing [Computational Mechanics projects](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) and making PC games.
+- I was born in the warm, coastal city of Manta, Manabí, Ecuador. 
+
+- I got into programming during my Mechanical Engineering bachelor's at USFQ by doing [Computational Mechanics projects](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) and making PC games.
 
   [<img src="https://user-images.githubusercontent.com/40581019/132089884-ba762681-a3d9-4540-a37c-8d046fd20105.jpg" target="_blank"  width="35%">](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) [<img src="https://user-images.githubusercontent.com/40581019/132090826-db8a774f-7bab-4d63-b8e9-9b6813294723.jpg" target="_blank"  width="35%">](https://raw.githubusercontent.com/linomp/acoustic_cam_usfq/master/Poster.pdf)
 
@@ -22,7 +27,7 @@ Some facts about me and why I program:
 
 - I'm interested in the enabling technologies for Industry 4.0, and I want to become an expert at architecting & developing solutions in that domain.
 
-###### :globe_with_meridians: [My CV](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)  |  [LinkedIn](https://www.linkedin.com/in/lino-mp/) |  [ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)    |  [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) 
+- When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://youtu.be/HArz0G73evk).
 
 <!-- 
 ![](https://github-readme-stats.vercel.app/api/?username=linomp&count_private=true&layout=compact&theme=react&show_icons=true&custom_title=Github+Stats)
