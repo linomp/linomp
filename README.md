@@ -9,10 +9,16 @@ Some facts about me and why I program:
 - I was born in the warm, coastal city of Manta, Manabí, Ecuador. 
 
 - I got into programming during my Mechanical Engineering bachelor's at USFQ by doing [Computational Mechanics projects](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) and making PC games.
+  
+  [<img src="https://user-images.githubusercontent.com/40581019/132104107-d98156c2-c2dc-49a6-9f27-250235849d78.jpg" target="_blank"  width="35%">](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) [<img src="https://user-images.githubusercontent.com/40581019/132104109-e3106d36-8e05-493e-a4a2-b4f437cc8a71.jpg" target="_blank"  width="35%">](https://raw.githubusercontent.com/linomp/acoustic_cam_usfq/master/Poster.pdf)
+ 
 
-  [<img src="https://user-images.githubusercontent.com/40581019/132089884-ba762681-a3d9-4540-a37c-8d046fd20105.jpg" target="_blank"  width="35%">](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) [<img src="https://user-images.githubusercontent.com/40581019/132090826-db8a774f-7bab-4d63-b8e9-9b6813294723.jpg" target="_blank"  width="35%">](https://raw.githubusercontent.com/linomp/acoustic_cam_usfq/master/Poster.pdf)
+<!--
+  [<img src="https://user-images.githubusercontent.com/40581019/132089884-ba762681-a3d9-4540-a37c-8d046fd20105.jpg" target="_blank"  width="35%" style="box-shadow: 10px 10px 5px grey;">](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) [<img src="https://user-images.githubusercontent.com/40581019/132090826-db8a774f-7bab-4d63-b8e9-9b6813294723.jpg" target="_blank"  width="35%">](https://raw.githubusercontent.com/linomp/acoustic_cam_usfq/master/Poster.pdf)
+-->
+  
 
-- In 2018 during an internship in Manta (my city), I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
+- In 2018 during an internship, I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
 
 - In that period I also took up Android (native, Java) and Web applications (MERN stack).
 
