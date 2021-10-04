@@ -4,7 +4,9 @@
 
 ###### :globe_with_meridians: [My CV](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)  |  [LinkedIn](https://www.linkedin.com/in/lino-mp/) |  [ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)    |  [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) 
 
-As you enjoy an imaginary hot welcome beverage, here are some facts about me and why I program:
+I'm Lino, a student with a Mechanical Engineering background & Software Development experience, interested in industry 4.0 solutions.
+
+As you enjoy a hot imaginary welcome beverage, here are some facts about me and why I program:
 
 ## Background
 - I was born in the warm, coastal city of Manta, Manabí, Ecuador. 
