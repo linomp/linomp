@@ -6,7 +6,7 @@
 
 I'm Lino, a student with a Mechanical Engineering background & Software Development experience, interested in industry 4.0 solutions.
 
-As you enjoy a hot imaginary welcome beverage, here are some facts about me and why I program:
+Here are some facts about me and why I program:
 
 ## Background
 - I was born in the warm, coastal city of Manta, Manabí, Ecuador. 
