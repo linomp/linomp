@@ -28,10 +28,16 @@ Here are some facts about me and why I program:
 
 ## Past Projects
 
-- I've developed a few mobile apps for [class projects](https://github.com/linomp/trip_plus_plus_android), but have invested more time in web; working on a [medical practice management system](https://www.iryo.io/) for [3FS d.o.o](https://3fs.si/) (Slovenia, 2019) and material requirements planning software for [Paqtana Ltd.](https://paqtana.com/) (remote, 2020). 
+- [Iryo Moshi - a modern medical practice management system](https://www.iryo.io/) at [3FS d.o.o](https://3fs.si/) (Slovenia, 2019).
 
-  [<img src="https://user-images.githubusercontent.com/40581019/132090604-7f989d89-7792-4aae-8f11-82e151f69156.PNG" align="left"  width="40%" />](https://www.iryo.io/) [<img src="https://user-images.githubusercontent.com/40581019/132090606-51a7a154-b101-4074-a535-d08cc0239abe.PNG" width="44.5%" />](https://paqtana.com/) 
+- Material requirements planning software for [Paqtana Ltd.](https://paqtana.com/) (Fully remote, 2020). 
 
+  [<img src="https://user-images.githubusercontent.com/40581019/132090604-7f989d89-7792-4aae-8f11-82e151f69156.PNG" width="40%" align="left"/>](https://www.iryo.io/) 
+ 
+  [<img src="https://user-images.githubusercontent.com/40581019/132090606-51a7a154-b101-4074-a535-d08cc0239abe.PNG"  width="44.5%" />](https://paqtana.com/) 
+<!--
+- I've also developed a few [Android apps](https://github.com/linomp/trip_plus_plus_android) for class projects.
+-->
 ## Present
 
 - Now I'm pursuing a master's degree in [Software Engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc) in Estonia, and working on the [Process Improvement Explorer](https://sep.cs.ut.ee/Main/PIX) project with the [Business Process Management Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at University of Tartu.
