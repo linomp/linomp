@@ -26,7 +26,7 @@ Here are some facts about me and why I program:
 
 - In that period I also took up Android (native, Java) and Web applications (MERN stack).
 
-## Past Projects
+## Previous Work
 
 - [Iryo Moshi - a modern medical practice management system](https://www.iryo.io/) at [3FS d.o.o](https://3fs.si/) (Slovenia, 2019).
 
