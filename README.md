@@ -48,7 +48,7 @@ Here are some facts about me and why I program:
 
 - I'm interested in the enabling technologies for Industry 4.0, and I want to become an expert at architecting & developing solutions in that domain.
 
-- When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://youtu.be/HArz0G73evk).
+- When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
 <!-- 
 ![](https://github-readme-stats.vercel.app/api/?username=linomp&count_private=true&layout=compact&theme=react&show_icons=true&custom_title=Github+Stats)
