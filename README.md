@@ -11,7 +11,7 @@ Here are some facts about me and why I program:
 ## Background
 - I was born in the warm, coastal city of Manta, Manabí, Ecuador. 
 
-- I got into programming during my Mechanical Engineering bachelor's at USFQ by doing [Computational Mechanics projects](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) and making PC games.
+- I got into programming during my Mechanical Engineering bachelor's at USFQ by doing [Computational Mechanics projects](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) and making PC games with [Processing](https://processing.org/).
 
  <!--
   [<img src="https://user-images.githubusercontent.com/40581019/132104107-d98156c2-c2dc-49a6-9f27-250235849d78.jpg" target="_blank"  width="35%">](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) [<img src="https://user-images.githubusercontent.com/40581019/132104109-e3106d36-8e05-493e-a4a2-b4f437cc8a71.jpg" target="_blank"  width="35%">](https://raw.githubusercontent.com/linomp/acoustic_cam_usfq/master/Poster.pdf)
