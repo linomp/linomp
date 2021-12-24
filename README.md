@@ -28,7 +28,7 @@ Here are some facts about me and why I program:
 
 ## Previous Work
 
-- [Iryo Moshi - a modern medical practice management system](https://www.iryo.io/) at [3FS d.o.o](https://3fs.si/) (Slovenia, 2019).
+- [Iryo Moshi](https://www.iryo.io/) - a modern medical practice management system at [3FS d.o.o](https://3fs.si/) (Slovenia, 2019).
 
 - Material requirements planning software for [Paqtana Ltd.](https://paqtana.com/) (Fully remote, 2020). 
 
