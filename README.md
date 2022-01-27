@@ -50,6 +50,8 @@ Here are some facts about me and why I program:
 
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
-<!-- 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linomp&hide=c%2b%2b,cmake,fortran,cudahtml&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ![](https://github-readme-stats.vercel.app/api/?username=linomp&count_private=true&layout=compact&theme=react&show_icons=true&custom_title=Github+Stats)
 -->
