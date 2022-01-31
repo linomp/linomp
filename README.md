@@ -46,7 +46,7 @@ Here are some facts about me and why I program:
 
 ## Future
 
-- I'm interested in the enabling technologies for Industry 4.0, and I want to become an expert at architecting & developing solutions in that domain.
+- I'm interested in the enabling technologies for Industry 4.0, and I want to become an expert at architecting & developing sensor-data driven systems for improved decision making. 
 
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
