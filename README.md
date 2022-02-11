@@ -2,7 +2,7 @@
 # Welcome :coffee:
 
 
-###### :globe_with_meridians: [My Resume](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)  |  [LinkedIn](https://www.linkedin.com/in/lino-mp/) |  [ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)    |  [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) 
+###### :globe_with_meridians: [My Resume](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)  |  [LinkedIn](https://www.linkedin.com/in/lino-mp/) |  [ResearchGate](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)  |  [Youtube](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g) | [Soundcloud](https://soundcloud.com/insertepseudonimoaqui)
 
 I'm Lino, a student with a Mechanical Engineering background & Software Development experience, interested in industry 4.0 solutions.
 
