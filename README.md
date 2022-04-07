@@ -2,15 +2,9 @@
 # Welcome :coffee:
 
 
-[![Google Drive](https://img.shields.io/badge/My%20Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lino-mp/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)
-[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g)
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/insertepseudonimoaqui)
-
 I'm Lino, a student with a Mechanical Engineering background & Software Development experience, interested in industry 4.0 solutions.
 
-Here are some facts about me and why I program:
+Here are some facts about me ~~(that you absolutely did not ask for)~~:
 
 ## Background
 - I was born in the warm, coastal city of Manta, Manabí, Ecuador. 
@@ -25,7 +19,7 @@ Here are some facts about me and why I program:
   [<img src="https://user-images.githubusercontent.com/40581019/132089884-ba762681-a3d9-4540-a37c-8d046fd20105.jpg" target="_blank"  width="35%" style="box-shadow: 10px 10px 5px grey;">](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) [<img src="https://user-images.githubusercontent.com/40581019/132090826-db8a774f-7bab-4d63-b8e9-9b6813294723.jpg" target="_blank"  width="35%">](https://raw.githubusercontent.com/linomp/acoustic_cam_usfq/master/Poster.pdf)
 -->
 
-- From the second half of 2017 I started taking classes from the Computer Science department, including Data Structures, Computer Organization & Architecture, C++ and Java programming (inc. Android), eventually obtaining a 'minor'.
+- From the second half of 2017 I started taking classes like Data Structures, Computer Organization & Architecture, C++ and Java programming (inc. Android), all complemented with really cool and uplifting stuff on Youtube like [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye), [CS50](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu) and the channel [that presented me the concept of Data Structures & their importance for the first time ever](https://www.youtube.com/watch?v=lC-yYCOnN8Q&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=4). It was all so fun. It was like an addiction.
 
 - In 2018 during an internship in my city, I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
 
@@ -60,3 +54,11 @@ Here are some facts about me and why I program:
  
 ![](https://github-readme-stats.vercel.app/api/?username=linomp&count_private=true&layout=compact&theme=react&show_icons=true&custom_title=Github+Stats)
 -->
+
+----
+
+[![Google Drive](https://img.shields.io/badge/My%20Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lino-mp/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g)
+[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/insertepseudonimoaqui)
