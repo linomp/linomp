@@ -29,7 +29,7 @@ Here are some facts about me and why I program:
 
 - In 2018 during an internship in my city, I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
 
-- I was convinced of the immense value awaiting to be unlocked by companies lacking visibility of their processes, and I've been pursuing that vision ever since.
+- I was convinced of the immense value waiting to be unlocked by companies lacking visibility of their processes, and I've been pursuing that vision ever since.
 
 ## Previous Work
 
