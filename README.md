@@ -24,11 +24,12 @@ Here are some facts about me and why I program:
 <!--
   [<img src="https://user-images.githubusercontent.com/40581019/132089884-ba762681-a3d9-4540-a37c-8d046fd20105.jpg" target="_blank"  width="35%" style="box-shadow: 10px 10px 5px grey;">](https://drive.google.com/file/d/1fj_NyQCMNPLJ5OtAql2qc3FKChcwu_mV/view) [<img src="https://user-images.githubusercontent.com/40581019/132090826-db8a774f-7bab-4d63-b8e9-9b6813294723.jpg" target="_blank"  width="35%">](https://raw.githubusercontent.com/linomp/acoustic_cam_usfq/master/Poster.pdf)
 -->
-  
 
-- In 2018 during an internship, I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
+- From the second half of 2017 I started taking classes from the Computer Science department, including Data Structures, Computer Organization & Architecture, C++ and Java programming (inc. Android), eventually obtaining a 'minor'.
 
-- In that period I also took up Android (native, Java) and Web applications (MERN stack).
+- In 2018 during an internship in my city, I learned about production-line challenges and heard the term "Industry 4.0" for the first time.
+
+- I was convinced of the immense value awaiting to be unlocked by companies lacking visibility of their processes, and I've been pursuing that vision ever since.
 
 ## Previous Work
 
@@ -36,19 +37,17 @@ Here are some facts about me and why I program:
 
 - Material requirements planning software for [Paqtana Ltd.](https://paqtana.com/) (Fully remote, 2020). 
 
-  [<img src="https://user-images.githubusercontent.com/40581019/132090604-7f989d89-7792-4aae-8f11-82e151f69156.PNG" width="40%" align="left"/>](https://www.iryo.io/) 
+  [<img src="https://user-images.githubusercontent.com/40581019/132090604-7f989d89-7792-4aae-8f11-82e151f69156.PNG" width="27.70%" align="left"/>](https://www.iryo.io/) 
  
-  [<img src="https://user-images.githubusercontent.com/40581019/132090606-51a7a154-b101-4074-a535-d08cc0239abe.PNG"  width="44.5%" />](https://paqtana.com/) 
-<!--
-- I've also developed a few [Android apps](https://github.com/linomp/trip_plus_plus_android) for class projects.
--->
+  [<img src="https://user-images.githubusercontent.com/40581019/132090606-51a7a154-b101-4074-a535-d08cc0239abe.PNG"  width="30.5%" />](https://paqtana.com/) 
+
 ## Present
 
 - Now I'm pursuing a master's degree in Software Engineering in Estonia, and doing research on Improvement Opportunity discovery with the [Business Process Management Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at University of Tartu.
 
 
   
-  [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="50%" />](https://sep.cs.ut.ee/Main/PIX)
+  [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="35%" />](https://sep.cs.ut.ee/Main/PIX)
 
 ## Future
 
