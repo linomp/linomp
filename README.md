@@ -4,7 +4,7 @@
 
 - I'm Lino, a student with a Mechanical Engineering background & Software Development experience, interested in industry 4.0 solutions.
 
-- I'm pursuing a master's degree in Software Engineering in Estonia, and doing research on Improvement Opportunity discovery with the [Business Process Management Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at University of Tartu.
+- Currently I'm on exchange at the Polytechnic University of Turin, while pursuing a master's degree in Software Engineering in Estonia, and doing research on Improvement Opportunity discovery with the [Business Process Management Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at University of Tartu.
 
 
   
