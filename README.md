@@ -8,7 +8,7 @@
 
 
   
-  [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="35%" />](https://sep.cs.ut.ee/Main/PIX)
+  [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="40%" />](https://sep.cs.ut.ee/Main/PIX)
 
 - I want to become an expert at architecting & developing sensor-data driven systems for improved decision making. 
 
