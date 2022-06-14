@@ -20,8 +20,12 @@
 -->
 
 ----
+
 [![Google Drive](https://img.shields.io/badge/My%20Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1pYv5m6SiAlh4wDjmAke4xLFVErn5jLCR/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lino-mp/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/insertepseudonimoaqui)
+
+<!--
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Lino-Mediavilla-Ponce-2)
+-->
