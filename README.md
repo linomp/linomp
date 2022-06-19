@@ -9,7 +9,6 @@
   
   [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="50%" />](https://sep.cs.ut.ee/Main/PIX)
 
-- I want to become an expert at architecting & developing sensor-data driven systems for improved decision making. 
 
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
