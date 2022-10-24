@@ -4,11 +4,13 @@
 
 - I'm Lino, I studied Mechanical & Software Engineering and I'm interested in industry 4.0 solutions.
 
-- For my master's thesis I worked on Improvement Opportunity discovery with the [Business Process Management Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at the University of Tartu, Estonia.
+- For my master's thesis I worked on Improvement Opportunity discovery with the [BPM Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at the University of Tartu, Estonia.
 
-  
+ <!--
   [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="40%" />](https://sep.cs.ut.ee/Main/PIX)
+-->
 
+- Currently, I'm working at LINKS Foundation on the [ECOFACT](https://ecofact-project.eu/) project.
 
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
