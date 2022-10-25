@@ -10,7 +10,7 @@
   [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="40%" />](https://sep.cs.ut.ee/Main/PIX)
 -->
 
-- Currently, I'm working at [LINKS Foundation](https://linksfoundation.com/en/) on the [ECOFACT](https://ecofact-project.eu/) project.
+- Currently, I'm working at [LINKS Foundation](https://linksfoundation.com/en/) on projects such as [ECOFACT](https://ecofact-project.eu/).
 
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
