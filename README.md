@@ -2,24 +2,14 @@
 # Welcome :coffee:
 
 
-- I'm Lino, I studied Mechanical & Software Engineering and I'm interested in industry 4.0 solutions.
+- I'm a developer with some full-stack experience, lately focusing on backend and IoT.
+
+- In the past I experimented a lot with Matlab, Java and Arduino boards. Nowadays, I'm interested in industry 4.0 solutions.
 
 - I work at [LINKS Foundation](https://linksfoundation.com/en/) on projects such as [ECOFACT](https://ecofact-project.eu/).
 
- <!--
-
-- Previously I worked on Improvement Opportunity discovery with the [BPM Research Group](https://www.researchgate.net/lab/Business-Process-Management-Research-Group-University-of-Tartu-Marlon-Dumas?_sg=N5iUAQfdVC05OhwXZX5moMZVB4PfxQNtweYYDXulruncptpiTnjDERrs59aa_ow_R2lju1aowaGLInnLeiCG0LBaTQ) at the University of Tartu, Estonia.
-
-  [<img src="https://user-images.githubusercontent.com/40581019/132091283-a35d2dbc-46af-45a2-942c-f2193e6bcf12.png" width="40%" />](https://sep.cs.ut.ee/Main/PIX)
--->
-
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linomp&hide=c%2b%2b,cmake,fortran,cudahtml&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- 
-![](https://github-readme-stats.vercel.app/api/?username=linomp&count_private=true&layout=compact&theme=react&show_icons=true&custom_title=Github+Stats)
--->
 
 ----
 
