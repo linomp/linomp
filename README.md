@@ -6,7 +6,7 @@
 
 - In the past I experimented a lot with Matlab, Java and Arduino boards. Nowadays, I'm interested in industry 4.0 solutions.
 
-- I work at [LINKS Foundation](https://linksfoundation.com/en/) on projects such as [Ecofact](https://ecofact-project.eu/) & [FLEXIndustries](https://flexindustries.eu/).
+- I work at [LINKS Foundation](https://linksfoundation.com/en/) on projects such as [ECOFACT](https://ecofact-project.eu/) & [FLEXIndustries](https://flexindustries.eu/).
 
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
