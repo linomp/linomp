@@ -4,9 +4,7 @@
 
 - I'm a developer with some full-stack experience, lately focusing on backend and IoT.
 
-- In the past I experimented a lot with Matlab, Java, C++ and Arduino boards. 
-
-- Nowadays, I'm interested in Industry 4.0 solutions - the construction of sensor-data-driven systems for improved decision making.
+- I'm interested in Industry 4.0 solutions - the construction of sensor-data-driven systems for improved decision making.
 
 - I work at [LINKS Foundation](https://linksfoundation.com/en/) on projects such as [ECOFACT](https://ecofact-project.eu/) & [FLEXIndustries](https://flexindustries.eu/).
 
