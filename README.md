@@ -6,7 +6,7 @@
 
 - I'm interested in Industry 4.0 solutions - the construction of sensor-data-driven systems for improved decision making.
 
-- I work at [LINKS Foundation](https://linksfoundation.com/en/) and lead the Open-Source Initiative of Inspire Foundation Ecuador ([Learn More](https://github.com/orgs/InspireFoundationEc)).
+- I work at [LINKS Foundation](https://linksfoundation.com/en/) and lead the [Open-Source Initiative](https://github.com/orgs/InspireFoundationEc) of Inspire Foundation Ecuador.
 
 - When not programming, I'm making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
