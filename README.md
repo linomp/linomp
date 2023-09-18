@@ -1,7 +1,7 @@
 
 # Welcome :coffee:
 
-- Hi. I'm Lino, an ecuadorian dev currently based in Italy.
+- Hi. I'm Lino, an ecuadorian dev with roots in Mechanical Engineering.
 
 - You may notice that my entire personality is based on: programming, being ecuadorian, brutal/experimental music and my cats.
 
