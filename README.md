@@ -3,7 +3,7 @@
 
 - Hi. I'm Lino, an ecuadorian dev with roots in Mechanical Engineering.
 
-- I'm not attached to a particular web stack, but I currently use .NET Core + Angular (for work) and FastAPI + Svelte (for fun).
+- I'm not attached to any particular web stack, but I currently use .NET Core + Angular (for work) and FastAPI + Svelte (for fun).
 
 - You may notice that my entire personality is based on: programming, being ecuadorian, brutal/experimental music and my cats.
 
