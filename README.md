@@ -3,7 +3,7 @@
 
 - Hi. I'm Lino, an ecuadorian dev with roots in Mechanical Engineering.
 
-- Besides programming, my favorite activities are: blasting metal albums, blasting vaporwave albums, blasting dungeon synth albums, blasting post-punk albums, blasting d-beat/crust punk albums, practicing blast beats, prioritizing social interactions related to metal or programming, and making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
+- Besides programming, my favorite activities are: blasting metal albums, blasting ambient albums, blasting vaporwave albums, blasting dungeon synth albums, blasting post-punk albums, blasting raw d-beat grindcore albums, practicing blast beats, prioritizing social interactions related to metal or programming, and making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
 ----
 
