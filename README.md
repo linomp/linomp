@@ -3,12 +3,12 @@
 
 - Hi. I'm Lino, an ecuadorian dev with roots in Mechanical Engineering.
 
-- You may notice that my entire personality is based on: programming, being ecuadorian, brutal/experimental music and my cats.
-
-- Indeed, besides programming, my favorite activities are: blasting metal albums, blasting vaporwave albums, blasting dungeon synth albums, blasting post-punk albums, blasting d-beat/crust punk albums, practicing blast beats, prioritizing social interactions related to metal or programming, and making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428). That's it.
+- Besides programming, my favorite activities are: blasting metal albums, blasting vaporwave albums, blasting dungeon synth albums, blasting post-punk albums, blasting d-beat/crust punk albums, practicing blast beats, prioritizing social interactions related to metal or programming, and making music under the name [{Inserte Pseudónimo Aquí}](https://soundcloud.com/insertepseudonimoaqui/via-ljubljana-demo?si=d99493f02ca646ffb9aa9c0a27de3428).
 
 ----
 
-<!--[![LinkedIn](https://img.shields.io/badge/Professional%20matters-2061b2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lino-mp/)-->
-[![YouTube](https://img.shields.io/badge/My%20playlists%20and%20videos-black.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g)
-[![Soundcloud](https://img.shields.io/badge/My%20music%20project-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/insertepseudonimoaqui/albums)
+
+
+[![Website](https://img.shields.io/badge/Website-black.svg?&logo=data:image/svg%2bxml;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAI6UExURSo0EMLvRi86EQAAAAUGAgEBAAABAAMDAQICATVCFNz/SrndQAsPBQQGAiIrDTNAFCAoDA0QBQMEAT9OF1VjH57BOZa5NZCwNCEpDXmXLXSRK4SkMYamMnSPK57AOklbHAQFAo2sNICcLzdFFCs2ELreQsjuSCo1ECUvDQ0RBiw4ESYuDnCKKqDEO09hHXaRK1luIQYHAgcKAwQGAWR7JXKPLGyEKH2ZLkNTGWB1IoqpMZO1NFNnH5S5Nsr0STZBFSo0D5u7ORYdClFhHtT/TLbhP5O3M7rkQL/lRFtwIlVqIV51IztJFmN8JREWB26IKXOOKUVWGoemMk5gHQ0RBRYdCZu4OScvDl1zIlRoIB8lDFJlH77gQr3bQzhGFAkNBImmM1NlH3OMKl1yIyEoDZa4N3CIKVZrH4inMVNjHxAVBmuGKCcxD3KNKqTKO77pQ6fJPEdWG5K0NNX/SnCEKREWBoanMhUaCDhHFVtxIhYaCcTsRqHHOpKyNYqrMqLBOyw1ETA8E4OjMWJ6JcXxRk1eHAYIAgECAERTGcLrRY6wNAgKA1ltIK7SPqbJPGN7JQgLAwECAQsOBCYxD6PHOs/2SRcdCQQEAR8hDOX/UnqRLAQHA3+WL4+vNX2aL5u+OaHEO5e5OJKzNkhaHHWNK8LlRigxDycwDlNmHggLBCQuDSQvDUtdHHCLKkpcHV93JAEBAW6GKcDoRVdqIAIDAREWBRkgCUpdGyg0EDZFEwQFASw2EZ/BOv///6CcH08AAAABYktHRL091dJ5AAAAB3RJTUUH6AkbBzAL8RB4XgAAARNJREFUGNMNyGNDQ2EABtC3nvtuS2stLS8uLhvLtm3by66bXcu27R/XzsdDiIoqGAqAw+WB8kDU1DU0ocXXFuiACinVJXr6BoYiI2MTUzNzC4gtrYi1DWztJPYOjk7OLlJXN3fi4enl7ePr5x8QGBQcIoOQIDQsnBMRGRUdExsXnwAuQWISaHJKalp6RmZWdg4IcvOA/ILCIkkxSkrLlFFeAaayqrqmtg71DY3KaJKKm1ta29o7OtHVLVdGT29f/4BAPjg0PDI6BhAexicmMcUymJ6ZFYElc/MLi0v8Zbqyura+sQkF2dre2d3bPzg8Oj45PTu/ALm8ulbc3N7dPzw+MXh+eSUA+8a8f3x+fYP9we/fP1I0SY3pAgAKAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI0LTA5LTI3VDA3OjQ4OjEwKzAwOjAwtWw1LQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNC0wOS0yN1QwNzo0ODoxMCswMDowMMQxjZEAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjQtMDktMjdUMDc6NDg6MTErMDA6MDA1U6f6AAAAAElFTkSuQmCC)](https://pointless.xmp.systems/)
+[![YouTube](https://img.shields.io/badge/Videos-black.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZkV9Lik6CgCtiTS2hb3y-g)
+[![Soundcloud](https://img.shields.io/badge/Music%20project-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/insertepseudonimoaqui/albums)
