@@ -1,7 +1,7 @@
 
 # Welcome :coffee:
 
-- Hi. I'm Lino, a dev from Manta - [Ecuador](https://youtu.be/j9c5Fqbidvs?si=irZO4UeA2pqRdoq6).
+- Hi. I'm Lino, a dev from Manta - Ecuador.
 - Got into with programming thanks to Processing (old java version) and Matlab.
 - I'm also obsessed with music, everything from raw punk to technical death metal.
 
